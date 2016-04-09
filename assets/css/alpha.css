@@ -1,0 +1,56 @@
+/**
+ * squaresAlpha CSS
+ */
+
+.body {
+    font-size: 14px;
+}
+
+.header-span {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.object {
+    height: 48px;
+    width: 48px;
+    border: 1px inset #CCC;
+/*    -webkit-transition: all 0.8s ease-in-out;
+       -moz-transition: all 0.8s ease-in-out;
+        -ms-transition: all 0.8s ease-in-out;
+         -o-transition: all 0.8s ease-in-out;
+            transition: all 0.8s ease-in-out;*/
+}
+
+.health-full {
+    background-color: #59B200;
+}
+
+.health-half {
+    background-color: #FF9C25;
+}
+
+.health-empty {
+    background-color: #C71A16;
+}
+
+.damage {
+    position: absolute;
+    -webkit-transform: translate(0, 60px);
+       -moz-transform: translate(0, 60px);
+        -ms-transform: translate(0, 60px);
+         -o-transform: translate(0, 60px);
+            transform: translate(0, 60px);
+}
+
+@keyframes flash {
+
+}
+
+@keyframes identifier {
+  0% { top: 0; left: 0; }
+  30% { top: 50px; }
+  68%, 72% { left: 50px; }
+  100% { top: 100px; left: 100%; }
+}
+
