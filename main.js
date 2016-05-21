@@ -28,7 +28,7 @@ function createWindow() {
     mainWindow.webContents.openDevTools();
 
     // and load the index.html of the app.
-    mainWindow.loadURL("file://" + __dirname + "/index.html");
+    mainWindow.loadURL("file://" + __dirname + "/frontend/index.html");
 
 
     // Emitted when the window is closed.
