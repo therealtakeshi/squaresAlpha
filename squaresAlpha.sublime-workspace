@@ -1,0 +1,806 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"par",
+				"parseResponse"
+			],
+			[
+				"aj",
+				"ajaxOptions"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"data",
+				"dataDirFiles"
+			],
+			[
+				"datadir",
+				"dataDirFiles"
+			],
+			[
+				"dataD",
+				"dataDirIsRead"
+			],
+			[
+				"dataDir",
+				"dataDirFiles"
+			],
+			[
+				"ticker",
+				"tickerAbbreviations"
+			],
+			[
+				"ticke",
+				"tickerAbbreviations"
+			],
+			[
+				"tick",
+				"tickerAbbreviations"
+			],
+			[
+				"requ",
+				"requestDataFromWiki"
+			],
+			[
+				"je",
+				"jefflr_colorComment"
+			],
+			[
+				"set",
+				"setItem"
+			],
+			[
+				"jeff",
+				"jefflr"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"back",
+				"background-picker"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"color",
+				"colorpicker"
+			],
+			[
+				"spec",
+				"spectrum2"
+			],
+			[
+				"Encode",
+				"encodeURIComponent"
+			],
+			[
+				"createser",
+				"http.createServer(requestListener);"
+			],
+			[
+				"getElem",
+				"getElementsByClassName"
+			],
+			[
+				"getElement",
+				"getElementById"
+			],
+			[
+				"re",
+				"redbTable  (variable)"
+			],
+			[
+				"redbTable",
+				"redbTableCreate  (function)"
+			],
+			[
+				"file",
+				"fs.readFile(path, encoding_);"
+			],
+			[
+				"Read",
+				"fs.FileReadStream(path, options);"
+			],
+			[
+				"proce",
+				"process.exit(code);"
+			],
+			[
+				"wr",
+				"fs.FileWriteStream(path, options);"
+			],
+			[
+				"http",
+				"http.get(options, cb);"
+			],
+			[
+				"GetLeadsS",
+				"GetLeadsSpanResult"
+			],
+			[
+				"rep6Sal",
+				"rep6SalesMonth"
+			],
+			[
+				"rep6Sale",
+				"rep6SalesWeek  (variable)"
+			],
+			[
+				"rep6Lead",
+				"rep6LeadsMonth  (variable)"
+			],
+			[
+				"rep6L",
+				"rep6LeadsWeek"
+			],
+			[
+				"rep6Rm",
+				"rep6RMRMonth  (variable)"
+			],
+			[
+				"rep6rm",
+				"rep6RMRWeek  (variable)"
+			],
+			[
+				"writefi",
+				"fs.writeFile(path, data, encoding_, callback);"
+			],
+			[
+				"mt_",
+				"mt_rand"
+			],
+			[
+				"fin",
+				"findAndModify"
+			],
+			[
+				"campai",
+				"campaignSmith"
+			],
+			[
+				"rep6Sales",
+				"rep6SalesPercentageMonth"
+			],
+			[
+				"this",
+				"thisMonthHours"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"is",
+				"isNotBlank"
+			],
+			[
+				"find",
+				"find"
+			],
+			[
+				"ironman",
+				"ironman"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"live",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sublimelin",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"gulp",
+				"Gulp: Show panel"
+			],
+			[
+				"gu",
+				"Gulp"
+			],
+			[
+				"gulp se",
+				"Gulp: Show panel"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"xiki",
+				"Preferences: SublimeXiki Settings – Default"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pastr",
+				"Text Pastry: Menu"
+			],
+			[
+				"pastry",
+				"Text Pastry: Menu"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"prety",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"spell",
+				"Google Spell Check"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"enco",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"remote",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"brower",
+				"SFTP: Browse Server…"
+			],
+			[
+				"node",
+				"Nodejs::Default File Settings"
+			],
+			[
+				"xml",
+				"xml2json: xml to json"
+			],
+			[
+				"remot",
+				"SFTP: Map to Remote…"
+			],
+			[
+				"serv",
+				"SFTP: Browse Server…"
+			],
+			[
+				"server",
+				"SFTP: Browse Server…"
+			],
+			[
+				"serve",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"browe",
+				"SFTP: Browse Server…"
+			],
+			[
+				"ftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"perforce",
+				"Perforce: Submit"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/takatak/Code/squaresAlpha"
+	],
+	"file_history":
+	[
+		"/Users/takatak/Code/squaresAlpha/package.json",
+		"/Users/takatak/Downloads/1b43f61887e89c371f1c8c73341540a3.html",
+		"/Users/takatak/Code/electron-dataviz/assets/js/polyfills.js",
+		"/Users/takatak/Downloads/City_of_Dallas_Payment_Register.csv",
+		"/Users/takatak/Code/electron-quick-start/renderer.js",
+		"/Users/takatak/Code/electron-quick-start/index.html",
+		"/Users/takatak/Code/electron-quick-start/main.js",
+		"/Users/takatak/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/usr/share/icu/icudt55l.dat",
+		"/Users/takatak/Downloads/gametest.html",
+		"/Users/takatak/Code/boxostocks/wiki_data/A.json",
+		"/Users/takatak/Code/boxostocks/WIKI_tickers_short.csv",
+		"/Users/takatak/Code/boxostocks/WIKI_tickers.csv",
+		"/Users/takatak/Code/boxostocks/app.js",
+		"/Users/takatak/Downloads/dlu.csv",
+		"/Users/takatak/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/takatak/Code/boxostocks/wiki_data/AAPL.json",
+		"/Users/takatak/Code/boxostocks/sample_GStocks.json",
+		"/Users/takatak/Downloads/tlgdb_2015_a_us_addr.gdb/a00000001.TablesByName.atx",
+		"/Users/takatak/Code/GIStorm/chat-master/server/index.js",
+		"/Users/takatak/Code/GIStorm/chat-master/client/app.js",
+		"/Users/takatak/Code/GIStorm/consumer.js",
+		"/Users/takatak/Code/GIStorm/producer.js",
+		"/Users/takatak/Code/GIStorm/package.json",
+		"/Users/takatak/Downloads/WIKI_tickers.csv",
+		"/Users/takatak/Downloads/set_page_color/popup.js",
+		"/Users/takatak/Downloads/set_page_color/popup.html",
+		"/Users/takatak/Code/rethe.me/src/browseraction/popup.html",
+		"/Users/takatak/Code/rethe.me/src/retheme.css",
+		"/Users/takatak/Code/rethe.me/src/retheme.js",
+		"/Users/takatak/Code/rethe.me/src/manifest.json",
+		"/Users/takatak/Code/rethe.me/gulpfile.js",
+		"/Users/takatak/Dropbox/sms-20121220202352.xml",
+		"/Users/takatak/Downloads/set_page_color/manifest.json",
+		"/Users/takatak/Code/rethe.me/Gulp Results",
+		"/Users/takatak/Code/rethe.me/rethe.me/browseraction/popup.html",
+		"/Users/takatak/Code/rethe.me/rethe.me/logic.js",
+		"/Users/takatak/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/takatak/Code/rethe.me/rethe.me/manifest.json",
+		"/Users/takatak/Code/rethe.me/rethe.me/gulpfile.js",
+		"/Users/takatak/Code/rethe.me/dist/retheme.zip",
+		"/Users/takatak/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/takatak/Library/Application Support/Sublime Text 3/Packages/Gulp/Gulp.sublime-settings",
+		"/Users/takatak/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/takatak/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/takatak/Library/Application Support/Sublime Text 3/Packages/Gulp/Default (OSX).sublime-keymap",
+		"/Users/takatak/Library/Application Support/Sublime Text 3/Packages/User/Gulp.sublime-settings",
+		"/Users/takatak/Downloads/geometry.json",
+		"/Users/takatak/Library/Application Support/Sublime Text 2/Packages/SublimeXiki/SublimeXiki.sublime-settings",
+		"/Users/takatak/Code/jefflr/bookmarklet/toolkit.js",
+		"/Users/takatak/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/takatak/BT/cash-21.rar",
+		"/Users/takatak/Code/jefflr/extension-chrome/logic.js",
+		"/Users/takatak/Code/jefflr/extension-chrome/manifest.json",
+		"/Users/takatak/Code/jefflr/extension-chrome/jquery.min.js",
+		"/Users/takatak/Code/jefflr/index.html",
+		"/Users/takatak/Code/jefflr/params.json",
+		"/Users/takatak/Code/jefflr/extension-chrome/README.md",
+		"/Users/takatak/Code/jefflr/bookmarklet/README.md",
+		"/Users/takatak/Code/jefflr/README.md",
+		"/Users/takatak/Code/mixlr-toolkit-bookmarklet/README.md",
+		"/private/var/folders/67/fhxbp3vx5kl_vxy69jyxpggm0000gn/T/3063e9b7-1a3c-4045-ac3d-dda6716544a7/var/www/pioneer-smith/public/php/apiMM.php",
+		"/private/var/folders/67/fhxbp3vx5kl_vxy69jyxpggm0000gn/T/3063e9b7-1a3c-4045-ac3d-dda6716544a7/var/www/pioneer-smith/public/php/apiMMTest.php",
+		"/Users/takatak/Downloads/simplesvg/resources.py",
+		"/private/var/folders/67/fhxbp3vx5kl_vxy69jyxpggm0000gn/T/720cfee6-23dd-4881-97aa-cf05a7083d86/home/takatak/sites/bispoke.org/public/test-chamber/ajax/index.html",
+		"/Users/takatak/Code/mixlr-toolkit-bookmarklet/toolkit.js",
+		"/Users/takatak/Library/Application Support/Sublime Text 2/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/takatak/Code/QGIS-Plugins/README.md",
+		"/Users/takatak/Code/QlikMaps/2.0/Decompressed Installation Files/QlikMaps_For_MQ_Multilayer/Definition.xml",
+		"/Users/takatak/Code/QlikMaps/2.0/Decompressed Installation Files/QlikMaps_For_MQ_Multilayer/Properties.qvpp",
+		"/Users/takatak/Code/QlikMaps/2.0/Decompressed Installation Files/QlikMaps_For_MQ_Multilayer/QlikMapsStraightTables.js",
+		"/Users/takatak/Code/QlikMaps/2.0/Decompressed Installation Files/QlikMaps_For_MQ_Polygons/initializeFunctions.js",
+		"/Users/takatak/Code/QlikMaps/2.0/Decompressed Installation Files/QlikMaps_For_MQ_Polygons/helperFunctionsMQ.js",
+		"/Users/takatak/Code/QlikMaps/2.0/Decompressed Installation Files/QlikMaps_For_MQ_Polygons/encodedPolylineDecoder.js",
+		"/Users/takatak/Code/QlikMaps/2.0/Decompressed Installation Files/QlikMaps_For_MQ_Polygons/miscFunctionsMQ.js",
+		"/Users/takatak/Code/QlikMaps/2.0/Decompressed Installation Files/QlikMaps_For_MQ_Polygons/selectorFunctionsMQ.js",
+		"/Users/takatak/Code/QlikMaps/2.0/Decompressed Installation Files/QlikMaps_For_MQ_Polygons/coreFunctionsOSM.js",
+		"/Users/takatak/Code/QlikMaps/2.0/Decompressed Installation Files/QlikMaps_For_MQ_Polygons/Script.js",
+		"/Users/takatak/Code/QlikMaps/2.0/Decompressed Installation Files/QlikMaps_For_MQ_Polygons/Control.MiniMap.js",
+		"/Users/takatak/Code/QlikMaps/2.0/Decompressed Installation Files/QlikMaps_For_MQ_Points/Script.js",
+		"/Users/takatak/Code/QlikMaps/2.0/Decompressed Installation Files/QlikMaps_For_MQ_Polygons/QlikMapsMQPolygons.js",
+		"/Users/takatak/Code/mixlr-extension/background/popup.html",
+		"/Users/takatak/Code/aether/firebase.js",
+		"/Users/takatak/Code/aether/consumer.js",
+		"/Users/takatak/Code/aether/server.js",
+		"/Users/takatak/Code/aether/stark-industries.json",
+		"/Users/takatak/Code/aether/.foreverignore",
+		"/Users/takatak/Code/aether/README.md",
+		"/Users/takatak/Code/aether/node_modules/kafka-node/lib/consumer.js",
+		"/Users/takatak/Code/aether/node_modules/kafka-node/lib/zookeeper.js",
+		"/Users/takatak/Code/aether/node_modules/kafka-node/lib/client.js",
+		"/var/folders/67/fhxbp3vx5kl_vxy69jyxpggm0000gn/T/sublime-sftp-browse-1394808147/BIspoke - Smith Dev/home/takatak/sites/bispoke.org/public/dev/smith/assets/php/mongoConn.php",
+		"/Users/takatak/Code/aether/package.json",
+		"/var/folders/67/fhxbp3vx5kl_vxy69jyxpggm0000gn/T/sublime-sftp-browse-1393716429/BIspoke - Smith Dev/home/takatak/sites/bispoke.org/public/dev/smith/assets/php/apiMMCampaigns.php",
+		"/Users/takatak/Code/aether/consume.js",
+		"/Users/takatak/Code/Leads/MM - 154.416552.json",
+		"/Users/takatak/Code/Leads/MM.json",
+		"/Users/takatak/Code/mixlr/app.js",
+		"/Users/takatak/Code/mixlr/package.json",
+		"/Users/takatak/Code/mixlr/Chatlog/chat0.json",
+		"/Users/takatak/Code/mixlr/chat.json",
+		"/Users/takatak/Code/Soap/node_modules/kafka-node/lib/consumer.js",
+		"/Users/takatak/Code/Soap/node_modules/kafka-node/example/consumer.js",
+		"/Users/takatak/Code/Soap/consume.js",
+		"/Users/takatak/Code/Soap/server.js",
+		"/Users/takatak/Code/aether/LICENSE",
+		"/Users/takatak/Code/Soap/node_modules/kafka-node/lib/zookeeper.js",
+		"/Users/takatak/Code/Soap/node_modules/kafka-node/lib/offset.js",
+		"/Users/takatak/Code/Soap/node_modules/kafka-node/lib/producer.js",
+		"/Users/takatak/Code/Soap/node_modules/kafka-node/lib/client.js",
+		"/Users/takatak/Code/Soap/node_modules/kafka-node/lib/cache.js",
+		"/Users/takatak/Code/Soap/node_modules/kafka-node/kafka.js",
+		"/Users/takatak/Code/Soap/node_modules/node-zookeeper-client/lib/Path.js",
+		"/Users/takatak/Code/Soap/node_modules/node-zookeeper-client/index.js",
+		"/Users/takatak/Code/Soap/node_modules/node-zookeeper-client/lib/ConnectionManager.js",
+		"/Users/takatak/Code/Soap/node_modules/kafkaesque/samples/metadata.js",
+		"/Users/takatak/Code/Soap/node_modules/kafkaesque/samples/produce.js",
+		"/Users/takatak/Code/Soap/node_modules/kafkaesque/samples/fetch.js",
+		"/Users/takatak/Code/Soap/node_modules/kafka-node/example/producer.js",
+		"/usr/local/kafka-0.8.0-src/config/zookeeper.properties",
+		"/usr/local/kafka-0.8.0-src/config/server.properties",
+		"/usr/local/kafka-0.8.0-src/config/kafka0.8.properties",
+		"/Users/takatak/Code/Soap/node_modules/kafkaesque/lib/kafkaesque.js",
+		"/Users/takatak/Code/Soap/node_modules/kafkaesque/lib/cbt.js",
+		"/var/folders/67/fhxbp3vx5kl_vxy69jyxpggm0000gn/T/sublime-sftp-browse-1393366888/BIspoke - Smith Dev/home/takatak/sites/bispoke.org/public/dev/smith/assets/php/mongoConn.php",
+		"/var/folders/67/fhxbp3vx5kl_vxy69jyxpggm0000gn/T/sublime-sftp-browse-1393366373/BIspoke - Smith Dev/home/takatak/sites/bispoke.org/public/dev/smith/assets/php/mongoConnQueryMarketing.php",
+		"/var/folders/67/fhxbp3vx5kl_vxy69jyxpggm0000gn/T/sublime-sftp-browse-1393371112/BIspoke - Smith Dev/home/takatak/sites/bispoke.org/public/dev/smith/assets/php/apiGAd-Today.php",
+		"/Users/takatak/Code/Soap/lead4.json"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/takatak/Code/QlikMaps/2.0/Decompressed Installation Files/QlikMaps_For_MQ_Polygons",
+			"/Users/takatak/Code/QlikMaps/2.0/Decompressed Installation Files/QlikMaps_For_MQ_Polygons*",
+			"/Users/takatak/Code/QlikMaps/2.0/Decompressed Installation Files/QlikMaps_For_MQ_Polygons",
+			"/Users/takatak/Code/QlikMaps/2.0/Decompressed Installation Files"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"index",
+			"tableName",
+			"ajaxOptions.data",
+			"type",
+			"this",
+			"/datamanager/v2/",
+			"/datamanager/",
+			"/datamanager",
+			"datamanager",
+			"/datamanager/",
+			"tabtest.data",
+			"tabtest.data.",
+			"data",
+			"25",
+			"-25",
+			"$(obj)",
+			"-350",
+			"data[i]",
+			"cur",
+			"\"}]",
+			",\"\":null},",
+			",\"\":null",
+			"Origin",
+			"{\n",
+			"Origin",
+			"s.find",
+			"this.",
+			" =",
+			"Feature.",
+			"his.",
+			"\n            if (typeof s === \"undefined\") {\n                s = {};\n            }",
+			"Feature",
+			"getCountries",
+			"getCountriesCached",
+			"getContinentsCached",
+			"getContinents",
+			"ached = ",
+			"Cached =",
+			"Feature.ge",
+			"n(id, cb) {",
+			"Zip",
+			"4",
+			"6",
+			"'",
+			"5813",
+			"socket",
+			"myInterval",
+			"'",
+			"http://todos.feathersjs.com",
+			"00",
+			"X.p",
+			"X.ppm 00X.jpg\nconvert -00X.ppm 00X.jpg\nconvert -00X.ppm 00X.jpg\nconvert -00X.ppm 00X.jpg\nconvert -00X.ppm 00X.jpg\nconvert -00X.ppm 00X.jpg\nconvert -00X.ppm 00X.jpg\nconvert -00X.p",
+			"X.ppm 00X.jpg\nconvert -00X.ppm 00X.jpg\nconvert -00X.ppm 00X.jpg\nconvert -00X.ppm 00X.jpg\nconvert -00X.ppm 00X.jpg\nconvert -00X.ppm 00X.jpg\nconvert -00X.p",
+			"X.ppm 00X.jpg\nconvert -00X.ppm 00X.jpg\nconvert -00X.ppm 00X.jpg\nconvert -00X.ppm 00X.jpg\nconvert -00X.ppm 00X.jpg\nconvert -00X.p",
+			"X.ppm 00X.jpg\nconvert -00X.ppm 00X.jpg\nconvert -00X.ppm 00X.jpg\nconvert -00X.ppm 00X.jpg\nconvert -00X.p",
+			"X.ppm 00X.jpg\nconvert -00X.ppm 00X.jpg\nconvert -00X.ppm 00X.jpg\nconvert -00X.p",
+			"X.ppm 00X.jpg\nconvert -00X.ppm 00X.jpg\nconvert -00X.p",
+			"X.ppm 00X.jpg\nconvert -00X.p",
+			"X",
+			"+opts.colorBackground+",
+			"+opts.colorComment+",
+			"console.log",
+			"colorBackground",
+			"colorComment",
+			"localStorage",
+			"opts.colorBackground",
+			"opts.colorComment",
+			"eff",
+			"jefflr",
+			":",
+			":f",
+			"setit",
+			"beta",
+			"colorpicker",
+			"appendchild",
+			"[0]",
+			"textarea",
+			"username",
+			"navigation",
+			"main-menu",
+			"MIXLR-TOOLKIT",
+			"mixlr-toolkit",
+			"MIXLR-TOOLKIT",
+			"mixlr-toolkit",
+			"thi",
+			"youtube",
+			"video",
+			"&",
+			"display('true'",
+			"style('",
+			"style",
+			"display('none')",
+			"ajaxResponse",
+			"leaflet-control-layers-",
+			"leaflet-control-layers-overview",
+			"leaflet-control-layers-overlay",
+			"/*leaflet-control-layers-overlay*/",
+			"leaflet-control-layers-overlay",
+			"fire",
+			"layeradd",
+			"addlayer",
+			"addto",
+			"));\n",
+			"renderPolygons",
+			"getCurrentselection",
+			"getcurrentselection",
+			"3000",
+			"left",
+			"heart",
+			"broadcast_wrapper",
+			";}}\";\n",
+			".fixed_width #main_menu[role=\"navigation\"]",
+			"main_search",
+			"h #main_search {w",
+			"width: 10%; left: 50%",
+			"nav_first",
+			"color: #4d4d4d",
+			" #4d4d4d;color: \"+opts.colorUsername+\"",
+			"padding: 7px 12px 5px 28px;f",
+			"blockUser",
+			"false",
+			"Comm",
+			"comm",
+			"Comm",
+			"el",
+			"El",
+			"el",
+			"val "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 110.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "squaresAlpha.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/takatak/Code/aether/chat.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

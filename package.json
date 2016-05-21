@@ -1,0 +1,25 @@
+{
+  "name": "squares_alpha",
+  "version": "0.0.1",
+  "description": "Click squares to win?",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therealtakeshi/squaresAlpha.git"
+  },
+  "author": "@therealtakeshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therealtakeshi/squaresAlpha/issues"
+  },
+  "homepage": "https://github.com/therealtakeshi/squaresAlpha#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^0.37.0",
+    "react": "^15.0.1",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.1"
+  }
+}

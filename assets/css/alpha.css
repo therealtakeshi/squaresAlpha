@@ -6,6 +6,23 @@
     font-size: 14px;
 }
 
+#content {
+    height: 100%;
+    width: 100%;
+}
+
+#halfOnTop {
+    height: 50%;
+    position: fixed;
+    top: 0;
+}
+
+#halfOnBottom {
+    height: 50%;
+    position: fixed;
+    bottom: 0;
+}
+
 .header-span {
     font-size: 2rem;
     font-weight: bold;
@@ -54,3 +71,22 @@
   100% { top: 100px; left: 100%; }
 }
 
+.wood {
+    background-color: #824404;
+}
+
+.gold {
+    background-color: #E29829;
+}
+
+.iron {
+    background-color: #AD9D90;
+}
+
+.copper {
+    background-color: #DE6400;
+}
+
+.stone {
+    background-color: #435056;
+}

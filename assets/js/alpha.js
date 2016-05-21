@@ -19,9 +19,14 @@ var scoreKeeper = setInterval(function () {
 }, 10);
 
 var validHealthClasses = [
-    "health-full",
-    "health-half",
-    "health-empty"
+    // "health-full",
+    // "health-half",
+    // "health-empty"
+    "wood",
+    "iron",
+    "copper",
+    "stone",
+    "gold"
 ];
 
 // Returns a random integer between min (included) and max (excluded)
@@ -32,15 +37,17 @@ function getRandomInt(min, max) {
 
 for (var i = 0; i < 14; i++) {
     var obj = $("<div>").addClass("object").addClass("grid-item");
-    var health = getRandomInt(1, 10);
+    var health = getRandomInt(0, 5);
 
-    if (health < 4) {
-        $(obj).addClass("health-empty");
-    } else if (health >= 4 && health <= 7) {
-        $(obj).addClass("health-half");
-    } else {
-        $(obj).addClass("health-full");
-    }
+    // if (health < 4) {
+    //     $(obj).addClass("health-empty");
+    // } else if (health >= 4 && health <= 7) {
+    //     $(obj).addClass("health-half");
+    // } else {
+    //     $(obj).addClass("health-full");
+    // }
+
+    $(obj).addClass(validHealthClasses[health]);
 
     obj.attr("health", health);
 
@@ -55,11 +62,11 @@ alphaSquares.grid = $(".grid").packery({
 alphaSquares.grid.on("click", ".grid-item", function () {
     var health = ($(this).attr("health")) - 1;
 
-    $("<span class=\"damage\">" + health + "!</span>").appendTo($(this)).fadeOut(350, function () {
+    $("<span class=\"damage\">" + (health + 1) + "!</span>").appendTo($(this)).fadeOut(350, function () {
         $(this).remove();
     });
 
-    if (health === 0) {
+    if (health === -1) {
         $(this).fadeOut(50, function () {
             alphaSquares.grid.packery( 'remove', $(this) ).packery('layout');
             // $(this).remove(function() {
@@ -67,16 +74,39 @@ alphaSquares.grid.on("click", ".grid-item", function () {
             // });
         });
     } else {
-        $(this).removeClass(validHealthClasses.join(" "));
-        if (health < 4) {
-            $(this).addClass("health-empty");
-        } else if (health >= 4 && health <= 7) {
-            $(this).addClass("health-half");
-        } else {
-            $(this).addClass("health-full");
-        }
+        // $(this).removeClass(validHealthClasses.join(" "));
+        // if (health < 4) {
+        //     $(this).addClass("health-empty");
+        // } else if (health >= 4 && health <= 7) {
+        //     $(this).addClass("health-half");
+        // } else {
+        //     $(this).addClass("health-full");
+        // }
     }
 
     $(this).attr("health", health);
 
 });
+
+setTimeout(function() {
+console.log("blah");
+
+    var obj = $("<div>").addClass("object").addClass("grid-item");
+    var health = getRandomInt(0, 5);
+
+    // if (health < 4) {
+    //     $(obj).addClass("health-empty");
+    // } else if (health >= 4 && health <= 7) {
+    //     $(obj).addClass("health-half");
+    // } else {
+    //     $(obj).addClass("health-full");
+    // }
+
+    $(obj).addClass(validHealthClasses[health]);
+
+    obj.attr("health", health);
+
+    alphaSquares.grid
+        .append(obj)
+        .packery("appended", obj);
+}, 3000);
